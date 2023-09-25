@@ -3,6 +3,5 @@ class Warlock:
         self.damage = damage
         self.power = power
         self.mana = mana
-    
-    
-        
+    def melee(self):
+        pass
